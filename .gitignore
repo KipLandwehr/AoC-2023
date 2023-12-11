@@ -1,0 +1,14 @@
+# Ignore all input files
+input
+
+# Ignore any test files
+test*
+
+# Ignore all puzzle description files
+puzzle.md
+
+# Ignore files containing submission attempts and results
+submissionAttempts
+
+# Ignore my .vscode files
+.vscode
